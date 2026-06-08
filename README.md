@@ -28,8 +28,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/notes-app.git
-   cd notes-app
+   git clone https://github.com/Tanishka290305/Notes-App-.git
+   cd Notes-App-
    ```
 
 2. **Install dependencies**
