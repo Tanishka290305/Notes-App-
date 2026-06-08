@@ -127,24 +127,10 @@ This creates an optimized production build in the `dist/` folder.
 - Verify Tailwind CSS is imported in `src/index.css`
 - Restart the dev server: `npm run dev`
 
-## 📝 Future Enhancements
-
-- [ ] LocalStorage persistence (notes survive page refresh)
-- [ ] Edit existing notes
-- [ ] Search functionality
-- [ ] Categories/Tags for notes
-- [ ] Dark/Light theme toggle
-- [ ] Export notes as PDF
-- [ ] Cloud sync with backend
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
 ## 👨‍💻 Author
 
 Created as a learning project for React fundamentals.
 
 ---
 
-**Happy Note Taking! 🎉**
+**Happy Note Taking! **
